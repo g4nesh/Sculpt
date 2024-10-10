@@ -1,4 +1,4 @@
-# Sculpt
+# Sculpt 🧠
 
 Advanced Multi-Omics Modeling for Elucidating Neuronal Architecture. This is an open source project, and any code and push updates will be posted on this project repo. Feel free to use any of the code here, but please cite this Github Project when doing so.
 
