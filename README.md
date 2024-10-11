@@ -36,7 +36,7 @@ Additional contributors and references will be cited in future updates to this R
 
 ## Contact
 
-Email: talluri.ganeshsai@gmail.com or ashwinrokks@gmail.com
+Email: talluri.ganeshsai@gmail.com or ashwinrokss@gmail.com
 
 ---
 
