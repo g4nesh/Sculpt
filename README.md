@@ -1,9 +1,10 @@
 # Sculpt 🧠
 
-A Multi-Omics Deep Learning Framework for Decoding Cerebral Cortex Localization
+Advanced Multi-Omics Modeling for Elucidating Neuronal Architecture
+
 ## Overview
 
-Sculpt is an open source project focused on advanced multi-omics modeling to elucidate neuronal architecture. This project combines cutting-edge techniques in 3D interneuron/neuron image modeling, leveraging work from NIH and the University of Maryland.
+Sculpt is an open source project focused on advanced multi-omics modeling to elucidate neuronal architecture. This project combines cutting-edge techniques in 3D interneuron/neuron image modeling, leveraging work from Google Research and Harvard University.
 
 ## Key Features
 
